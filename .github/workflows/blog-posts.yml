@@ -17,6 +17,6 @@ jobs:
         with:
           feed_list: "https://godekd3133.github.io/rss.xml"
           max_post_count: 5
-          template: "- [$title]($url) <sub>$date</sub>$newline"
+          template: '<li><a href="$url">$title</a> <sub>$date</sub></li>$newline'
           date_format: "yyyy.mm.dd"
           commit_message: "Update recent blog posts"

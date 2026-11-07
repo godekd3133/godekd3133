@@ -127,12 +127,15 @@ AI에 구현을 맡기기 시작한 뒤로는 기획, 구현, 검증, 출시를 
 
 ## ✍️ 최근 글
 
-<!-- BLOG-POST-LIST:START -->- [AI 도구로 일하는 방식은 어떻게 바뀌었나](https://godekd3133.github.io/blog/2026-11-02-ai-growth-overview/) <sub>2026.11.02</sub>
-- [AI에 구현을 맡기면서 시장을 더 보게 됐습니다](https://godekd3133.github.io/blog/2026-11-02-from-tech-domain-to-market-domain/) <sub>2026.11.02</sub>
-- [슬롯 개발에서 서버와 클라이언트를 맞춘 과정](https://godekd3133.github.io/blog/2026-11-02-slot-server-client-alignment/) <sub>2026.11.02</sub>
-- [검증과 병행: 완료 조건을 실행 결과로 바꾸기](https://godekd3133.github.io/blog/2026-10-31-ai-verification-and-products/) <sub>2026.10.31</sub>
-- [에이전트 결과를 어떻게 믿을까: 벤치마크](https://godekd3133.github.io/blog/2026-10-29-agent-benchmark/) <sub>2026.10.29</sub>
+<ul>
+<!-- BLOG-POST-LIST:START -->
+<li><a href="https://godekd3133.github.io/blog/2026-11-02-ai-growth-overview/">AI 도구로 일하는 방식은 어떻게 바뀌었나</a> <sub>2026.11.02</sub></li>
+<li><a href="https://godekd3133.github.io/blog/2026-11-02-from-tech-domain-to-market-domain/">AI에 구현을 맡기면서 시장을 더 보게 됐습니다</a> <sub>2026.11.02</sub></li>
+<li><a href="https://godekd3133.github.io/blog/2026-11-02-slot-server-client-alignment/">슬롯 개발에서 서버와 클라이언트를 맞춘 과정</a> <sub>2026.11.02</sub></li>
+<li><a href="https://godekd3133.github.io/blog/2026-10-31-ai-verification-and-products/">검증과 병행: 완료 조건을 실행 결과로 바꾸기</a> <sub>2026.10.31</sub></li>
+<li><a href="https://godekd3133.github.io/blog/2026-10-29-agent-benchmark/">에이전트 결과를 어떻게 믿을까: 벤치마크</a> <sub>2026.10.29</sub></li>
 <!-- BLOG-POST-LIST:END -->
+</ul>
 
 <sub>매일 블로그 RSS에서 자동으로 갱신됩니다 · <a href="https://godekd3133.github.io/blog/">전체 글 보기</a></sub>
 
