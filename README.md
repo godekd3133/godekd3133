@@ -127,8 +127,7 @@ AI에 구현을 맡기기 시작한 뒤로는 기획, 구현, 검증, 출시를 
 
 ## ✍️ 최근 글
 
-<!-- BLOG-POST-LIST:START -->
-- [AI 도구로 일하는 방식은 어떻게 바뀌었나](https://godekd3133.github.io/blog/2026-11-02-ai-growth-overview/) <sub>2026.11.02</sub>
+<!-- BLOG-POST-LIST:START -->- [AI 도구로 일하는 방식은 어떻게 바뀌었나](https://godekd3133.github.io/blog/2026-11-02-ai-growth-overview/) <sub>2026.11.02</sub>
 - [AI에 구현을 맡기면서 시장을 더 보게 됐습니다](https://godekd3133.github.io/blog/2026-11-02-from-tech-domain-to-market-domain/) <sub>2026.11.02</sub>
 - [슬롯 개발에서 서버와 클라이언트를 맞춘 과정](https://godekd3133.github.io/blog/2026-11-02-slot-server-client-alignment/) <sub>2026.11.02</sub>
 - [검증과 병행: 완료 조건을 실행 결과로 바꾸기](https://godekd3133.github.io/blog/2026-10-31-ai-verification-and-products/) <sub>2026.10.31</sub>
